@@ -1,7 +1,7 @@
 # Authors
 Danilo Numeroso ([@danilonumeroso](https://github.com/danilonumeroso))
 
-Matteo Medioli  ([@Ickarus](https://github.com/Ickarus))
+Matteo Medioli  ([@matteomedioli](https://github.com/matteomedioli))
 
 # Implementation
 This is a python implementation of the Frank Wolfe algorithm, the goal was clarity rather than efficiency.
